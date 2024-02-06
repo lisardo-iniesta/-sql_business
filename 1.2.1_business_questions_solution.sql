@@ -26,7 +26,8 @@ OR product_category_name_english =  "computers_accessories"
 OR product_category_name_english =  "pc_gamer"
 OR product_category_name_english =  "computers"
 OR product_category_name_english =  "tablets_printing_image"
-OR product_category_name_english =  "telephony";
+OR product_category_name_english =  "telephony"
+OR product_category_name_english = "VR Headshets";
 	-- 3390
 
 -- What percentage does that represent from the overall number of products sold?
